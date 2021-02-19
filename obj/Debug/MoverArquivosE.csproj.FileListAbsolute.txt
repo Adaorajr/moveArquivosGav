@@ -1,0 +1,7 @@
+C:\Users\jr\source\repos\MoverArquivosE\bin\Debug\MoverArquivosE.exe.config
+C:\Users\jr\source\repos\MoverArquivosE\bin\Debug\MoverArquivosE.exe
+C:\Users\jr\source\repos\MoverArquivosE\bin\Debug\MoverArquivosE.pdb
+C:\Users\jr\source\repos\MoverArquivosE\obj\Debug\MoverArquivosE.csprojAssemblyReference.cache
+C:\Users\jr\source\repos\MoverArquivosE\obj\Debug\MoverArquivosE.csproj.CoreCompileInputs.cache
+C:\Users\jr\source\repos\MoverArquivosE\obj\Debug\MoverArquivosE.exe
+C:\Users\jr\source\repos\MoverArquivosE\obj\Debug\MoverArquivosE.pdb
