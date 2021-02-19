@@ -15,7 +15,7 @@ namespace MoverArquivosE
         static void Main(string[] args)
         {
             string arquivos = @"C:\Users\jr\Documents\CARGA_TENS";
-            string saida = @"C:\Users\jr\Documents\TESTE";
+            string saida = @"C:\Users\jr\Documents\carga itens oracle";
 
             string[] files = Directory.GetFiles(arquivos);
 
